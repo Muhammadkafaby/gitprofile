@@ -57,7 +57,64 @@ const CONFIG = {
     'Antd',
     'Tailwind',
   ],
-  experiences: [],
+  experiences: [
+    {
+  company: 'Transtrack.ID',
+  position: 'DevSecOps Intern',
+  from: '2024',
+  to: '2025',
+  description:
+    'Assisted in implementing and managing security measures within the software development lifecycle, focusing on integrating security into CI/CD pipelines. Monitored and analyzed vulnerabilities using tools like SIEM and vulnerability scanners. Collaborated with the DevOps team to enhance infrastructure security, automate compliance checks, and ensure secure deployment processes. Contributed to documentation and incident response procedures to improve organizational resilience.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Head of Community Service Department',
+  from: '2024',
+  to: '2025',
+  description:
+    'Led the Community Service Department, responsible for planning, coordinating, and executing community outreach programs. Managed team operations, resource allocation, and collaboration with external partners to deliver impactful social initiatives.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Head of National Program "Membangun Negeri 2024"',
+  from: '2024',
+  to: '2024',
+  description:
+    'Directed the implementation of the national program in collaboration with the Ministry of Education, focusing on community empowerment through education and technology. Oversaw event planning, budgeting, and stakeholder engagement.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Security Division Staff – Dies Natalis D3 Software Engineering 2023',
+  from: '2023',
+  to: '2023',
+  description:
+    'Served in the security division for the anniversary event of D3 Software Engineering, ensuring safety, managing risk, and coordinating security protocols to maintain a safe event environment.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Logistics Coordinator – ONION 11MTILESS',
+  from: '2023',
+  to: '2023',
+  description:
+    'Coordinated logistics for the ONION 11MTILESS event, managing transportation, inventory, and venue arrangements to ensure smooth execution of all event activities.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Committee Member – Dira Mengajar',
+  from: '2023',
+  to: '2023',
+  description:
+    'Participated as a committee member in the Dira Mengajar program, focused on providing community education and support. Assisted in teaching, program scheduling, and event facilitation.',
+},
+{
+  company: 'Himadira Telkom University',
+  position: 'Person in Charge – Charity Program',
+  from: '2023',
+  to: '2023',
+  description:
+    'Oversaw planning and execution of the Charity Program, managing fundraising activities, coordinating with donors, and distributing aid to beneficiaries.',
+},
+  ],
   certifications: [],
   educations: [
     {
