@@ -71,12 +71,22 @@ const CONFIG = {
     {
   title: 'Real-time Earthquake Monitoring Application',
   conferenceName: '',
-  journalName: 'Web Development',
+  journalName: 'Personal Project',
   authors: 'Muhammad Kafaby',
   link: 'https://monitor-earthquake.netlify.app/',
   description:
     'This project is a real-time earthquake monitoring web application that visualizes global seismic activity using an interactive map. It integrates live earthquake data APIs, filters results, and displays key metrics such as magnitude, location, and recent activity, providing users with an intuitive and informative dashboard.',
 },
+{
+  title: 'Islamic Bot – Daily Worship Companion App',
+  conferenceName: '',
+  journalName: 'Personal Project',
+  authors: 'Muhammad Kafaby',
+  link: 'https://islamic-dev.netlify.app/',
+  description:
+    'A web-based Islamic companion application that provides daily worship information, including prayer schedules, daily prayers, daily Quran verses, and Qibla direction. Integrated with AI for enhanced user interaction, this project aims to make accessing Islamic resources easier and more intuitive for daily use.',
+},
+
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
