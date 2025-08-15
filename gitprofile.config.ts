@@ -118,11 +118,36 @@ const CONFIG = {
   certifications: [],
   educations: [
     {
-      institution: 'Telkom University',
-      degree: 'Software Engineering',
-      from: '2022',
-      to: 'Present',
-    },
+  institution: 'Telkom University',
+  degree: 'S1 Informatika',
+  from: '2022',
+  to: 'Present',
+},
+{
+  institution: 'SMA NU Kaplongan',
+  degree: 'IPA',
+  from: '2019',
+  to: '2022',
+},
+{
+  institution: 'Pondok Pesantren Darul Ma`arif',
+  degree: 'Pendidikan Agama',
+  from: '2016',
+  to: '2022',
+},
+{
+  institution: 'SMP Darul Ma`arif',
+  degree: '-',
+  from: '2016',
+  to: '2019',
+},
+{
+  institution: 'SDN KERTASEMAYA 1',
+  degree: '-',
+  from: '2010',
+  to: '2016',
+},
+
   ],
   publications: [
     {
