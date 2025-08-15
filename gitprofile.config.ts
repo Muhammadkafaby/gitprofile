@@ -11,7 +11,7 @@ const CONFIG = {
       header: 'GitHub Projects',
       mode: 'automatic',
       automatic: {
-        sortBy: 'updated',
+        sortBy: 'stars',
         limit: 10,
         exclude: {
           forks: false,
@@ -62,12 +62,22 @@ const CONFIG = {
   educations: [
     {
       institution: 'Telkom University',
-      degree: 'Computer Science',
+      degree: 'Software Engineering',
       from: '2022',
       to: 'Present',
     },
   ],
-  publications: [],
+  publications: [
+    {
+  title: 'Real-time Earthquake Monitoring Application',
+  conferenceName: '',
+  journalName: 'Web Development',
+  authors: 'Muhammad Kafaby',
+  link: 'https://monitor-earthquake.netlify.app/',
+  description:
+    'This project is a real-time earthquake monitoring web application that visualizes global seismic activity using an interactive map. It integrates live earthquake data APIs, filters results, and displays key metrics such as magnitude, location, and recent activity, providing users with an intuitive and informative dashboard.',
+},
+  ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
