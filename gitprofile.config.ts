@@ -58,6 +58,12 @@ const CONFIG = {
     'Tailwind',
   ],
   experiences: [
+  {
+    "company": "Landgroup.id",
+    "position": "Full Stack Programmer (Deployment & Server)",
+    "from": "2025",
+    "to": "Now"
+  },
     {
   company: 'Transtrack.ID',
   position: 'DevSecOps Intern',
